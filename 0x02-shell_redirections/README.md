@@ -1,0 +1,1 @@
+Shell, I/O Redirections and filters This repository contains a shell script and a I/O Redirections that allow you to redirect standard input, output and error streams to files. The script can be used to create temporary files or to pipe data between two programs. The Shell script can be used to filter data before it is sent to a file.
