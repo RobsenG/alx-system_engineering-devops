@@ -1,0 +1,1 @@
+Shell variable expansions are an essential element of command-line operations. They give users the ability to both define and expand variables, thereby making execution of commands simpler while streamlining the process of executing multiple commands at once.
